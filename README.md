@@ -1,0 +1,2 @@
+# GitKicadLib
+KicadLibrary
