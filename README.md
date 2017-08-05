@@ -1,4 +1,4 @@
 # GitKicadLib
-KicadLibrary
+Kicad Library
 
 Kicadのライブラリ
